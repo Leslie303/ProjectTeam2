@@ -1,5 +1,6 @@
-My Full Name: Stephen Davison
-Name to Call Me: Stephen
-Email to Use for Me: stephen.davison@cgu.edu
-My GitHub Username: nosivads
+Name: Stephen Davison
+Use: Stephen
+Email: stephen.davison@cgu.edu
+Gmail: stephen.m.davison@gmail.com
+GitHub Username: nosivads
 Cell phone: 323 406 0273
